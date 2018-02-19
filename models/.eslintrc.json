@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "class-methods-use-this": ["error", {
+      "exceptMethods": [
+        "$beforeValidate",
+        "$validate",
+        "$afterValidate",
+        "$beforeInsert",
+        "$afterInsert",
+        "$beforeUpdate",
+        "$afterUpdate"
+      ]
+    }]
+  }
+}

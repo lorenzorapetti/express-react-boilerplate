@@ -1,0 +1,12 @@
+{
+	"Username or password not valid": "Username or password not valid",
+	"Not Found": "Not Found",
+	"No token supplied": "No token supplied",
+	"Record not found": "Record not found",
+	"Username or password invalid": "Username or password invalid",
+	"not a valid email": "not a valid email",
+	"required": "required",
+	"is not a valid email": "is not a valid email",
+	"is required": "is required",
+	"User not found": "User not found"
+}

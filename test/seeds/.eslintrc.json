@@ -1,0 +1,10 @@
+{
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "func-names": "off",
+    "import/no-extraneous-dependencies": "off"
+  }
+}

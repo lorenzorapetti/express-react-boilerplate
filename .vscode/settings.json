@@ -1,0 +1,14 @@
+{
+    "eslint.enable": true,
+    "eslint.packageManager": "yarn",
+    "eslint.autoFixOnSave": true,
+    "editor.tabSize": 2,
+    "editor.codeLens": true,
+    "npm-intellisense.importES6": false,
+    "npm.packageManager": "yarn",
+    "versionlens.showTaggedVersionsAtStartup": true,
+    "versionlens.showDependencyStatusesAtStartup": true,
+    "files.associations": {
+      "*.js": "javascript"
+    }
+  }
